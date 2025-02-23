@@ -2,6 +2,9 @@ Nome : JJ
 CPF : 000000000-00
 idade : 00
 Altura : 0,00
+<<<<<<< HEAD
 Cidade : xxxxxx
+=======
+>>>>>>> 8252754f6bcf51257630b8539d4a83734dea7d71
 Estado : 000000
 Pais : 00000
