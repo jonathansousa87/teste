@@ -1,2 +1,4 @@
 Nome : JJ
 CPF : 000000000-00
+idade : 00
+Altura : 0,00
