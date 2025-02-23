@@ -2,5 +2,6 @@ Nome : JJ
 CPF : 000000000-00
 idade : 00
 Altura : 0,00
+Cidade : xxxxxx
 Estado : 000000
 Pais : 00000
